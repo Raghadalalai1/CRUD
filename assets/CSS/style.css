@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1100px;
+    margin: 50px auto;
+    padding-left: 40px;
+}
+.done{
+    color: blue;
+}
+form{
+    width: 300px;
+    margin: 20px auto;
+}
+form input{
+   
+    display: block;
+    height: 30px;
+    width: 100%;
+    margin-top: 20px;
+
+}
+.updateName{
+    display: none;
+}
+/* .updateName{
+    display: none;
+} */
